@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/persistcoding/webpack-tools.git"
   },
-  "author": "tim Huang",
+  "author": "tim Huang ",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/persistcoding/webpack-tools/issues"
