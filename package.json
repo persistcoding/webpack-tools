@@ -1,0 +1,19 @@
+{
+  "name": "webpack-tools",
+  "version": "0.0.1",
+  "description": "something around webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/persistcoding/webpack-tools.git"
+  },
+  "author": "tim Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/persistcoding/webpack-tools/issues"
+  },
+  "homepage": "https://github.com/persistcoding/webpack-tools#readme"
+}
